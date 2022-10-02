@@ -381,4 +381,8 @@ p {
   margin-right: 10px;
 }
 
+.column-link__no-icon {
+  color: white;
+  text-decoration: none;
+}
 
