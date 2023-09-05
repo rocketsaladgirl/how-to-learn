@@ -1,5 +1,5 @@
 # "Научиться учиться"
-
+![howtolearn](https://github.com/rocketsaladgirl/how-to-learn/assets/114432448/2c9a63c4-40ea-4412-8eba-41befd2af3c1)
 
 ## О чем данный проект?:
 
